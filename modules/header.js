@@ -1,7 +1,7 @@
 const header=()=>{
     return(`<header class="header">
         <div class="left">
-            <a href="home.html">E-Commerce</a>
+            <a href="index.html">E-Commerce</a>
         </div>
         <div class="right">
             <a href="cart.html">See Cart</a>
