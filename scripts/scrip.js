@@ -11,6 +11,7 @@ function show_data(data) {
     console.log(data)
     data.map((p, i) => {
         let product = document.createElement("div")
+        product.setAttribute("class","product")
         let title = document.createElement("h2")
         title.innerHTML = p.title
         let image = document.createElement("img")

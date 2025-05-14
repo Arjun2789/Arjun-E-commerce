@@ -5,7 +5,7 @@ const header=()=>{
         </div>
         <div class="right">
             <a href="cart.html">See Cart</a>
-            <a href="wish.html">See Wishlist</a>
+            <a href="wish.html" class="headlink">See Wishlist</a>
             <h2>Profile</h2>
         </div>
     </header>`)
